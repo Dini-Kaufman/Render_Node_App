@@ -29,7 +29,7 @@ import cors from 'cors'
 import bodyParser from "body-parser";
 
 const app = express()
-const port =process.env.PORT || 3001
+const port =process.env.PORT || 3000
 dotenv.config()
 app.use(cors())
 app.use(bodyParser.json())

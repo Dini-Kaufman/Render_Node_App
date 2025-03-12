@@ -11,7 +11,7 @@
   "type": "module",
   
  "scripts": {
-    "start": "node \"C:\\Users\\This User\\Documents\\הנדסאים\\practycode\\p3\\render-node-app\\render-node-app\\app.js\""
+    "start": "node app.js"
   },
   
   "author": "",
